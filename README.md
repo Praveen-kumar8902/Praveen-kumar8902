@@ -8,8 +8,8 @@ I’m a Full Stack Engineer focused on building efficient and reliable solutions
 
 ## Technologies & Skills 🛠️
 
-- **Frontend**: HTML, CSS, JavaScript, TypeScript, Angular, Angular Material, React
-- **Backend**: Java, Spring MVC, Spring Security using JWT, Spring Boot, Spring Data JPA , Hibernate, Microservices
+- **Frontend**: HTML, CSS, JavaScript, Angular 
+- **Backend**: Java, Spring Boot
 - **Database**: MySQL
 - **Tools**: Maven, Postman, SonarQube, Redis, RabbitMQ, Splunk, Jenkins
 
